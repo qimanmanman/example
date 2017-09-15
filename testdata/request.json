@@ -1,0 +1,74 @@
+{
+    "type": "qAnswer",
+    "uid": "290000752",
+    "appType": "1",
+    "userType": "student",
+    "orgType": "single",
+    "roomId": "890",
+    "pushTime": 1470802164489,
+    "answer": [
+        {
+            "questionType": "3",
+            "questionId": "1653",
+            "answer": {
+                "145": "C"
+            }
+        }
+    ]
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "49",
+    "questionType": "4",
+    "roomId": "661",
+    "pushTime": 1467877370679,
+    "answer": {
+        "1": "not to go",
+        "2": "will travel"
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "45",
+    "questionType": "2",
+    "roomId": "647",
+    "pushTime": 1467796537203,
+    "answer": {
+        "67": [
+            "A",
+            "D",
+            "B"
+        ]
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "127",
+    "questionType": "6",
+    "roomId": "666",
+    "pushTime": 1467968858460,
+    "answer": {
+        "195": "C",
+        "196": "D"
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "appType": "1",
+    "userType": "student",
+    "questionId": "1845",
+    "questionType": "5",
+    "roomId": "153",
+    "pushTime": 1468999090433,
+    "answer": {
+        "2807": "D",
+        "2808": "C"
+    }
+}

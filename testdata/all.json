@@ -1,0 +1,367 @@
+{
+    "type": "question",
+    "userType": "teacher",
+    "uid": "1466583482",
+    "questionId": "76",
+    "classId": "447",
+    "roomId": "665",
+    "question": {
+        "id": "76",
+        "grade": "10",
+        "course": "2",
+        "author": "1463472678",
+        "create_time": "1463896961",
+        "update_time": "1467797365",
+        "type": "1",
+        "year": "2016",
+        "province": "12",
+        "sub_from": "1",
+        "degree": "20",
+        "stem": "Girls like to _____ themselves in modern dresses in modern dresses.",
+        "status": "1",
+        "question": [
+            {
+                "id": "145",
+                "sid": "76",
+                "question": "",
+                "option_list": {
+                    "A": "bhsbhdb",
+                    "B": "ncjdbsajbd",
+                    "C": "bjdbsjhsbchsbh bdjhsbchjd bdjbsc bcjshdbc bcjsbdad bcjbsaj bjhcd",
+                    "D": "bdbshbc bcjdhsbhja bcjdsabah bcjhasbdhj bchjd"
+                },
+                "answer": [
+                    "D"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "0"
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    "questionType": "1"
+}
+{
+    "type": "question",
+    "userType": "teacher",
+    "uid": "1466583482",
+    "questionId": "49",
+    "classId": "443",
+    "roomId": "661",
+    "question": {
+        "id": "49",
+        "grade": "10",
+        "course": "3",
+        "author": "1234567",
+        "create_time": "1463458967",
+        "update_time": "1465696295",
+        "type": "4",
+        "year": "2016",
+        "province": "21",
+        "sub_from": "1",
+        "degree": "1",
+        "stem": "If the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correct?",
+        "status": "1",
+        "question": [
+            {
+                "id": "79",
+                "sid": "49",
+                "question": "",
+                "option_list": {
+                    "1": "",
+                    "2": ""
+                },
+                "answer": [
+                    "not to go",
+                    "will travel"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "0"
+            }
+        ],
+        "answer": [
+            "not to go",
+            "will travel"
+        ]
+    },
+    "questionType": "4"
+}
+{
+    "type": "question",
+    "userType": "teacher",
+    "uid": "1466756327",
+    "questionId": "45",
+    "classId": "431",
+    "roomId": "647",
+    "question": {
+        "id": "45",
+        "grade": "12",
+        "course": "3",
+        "author": "1234567",
+        "create_time": "1463453126",
+        "update_time": "1465304652",
+        "type": "2",
+        "year": "2016",
+        "province": "21",
+        "sub_from": "1",
+        "degree": "1",
+        "stem": "Girls like to _____ themselves in modern dresses in modern dresses.",
+        "status": "1",
+        "question": [
+            {
+                "id": "67",
+                "sid": "45",
+                "question": "",
+                "option_list": {
+                    "A": "bhsbhdb",
+                    "B": "ncjdbsajbd",
+                    "C": "bjdbsjhsbchsbh bdjhsbchjd bdjbsc bcjshdbc bcjsbdad bcjbsaj bjhcd",
+                    "D": "bdbshbc bcjdhsbhja bcjdsabah bcjhasbdhj bchjd"
+                },
+                "answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "0"
+            }
+        ],
+        "answer": [
+            "ABD"
+        ]
+    },
+    "questionType": "2"
+}
+{
+    "type": "question",
+    "userType": "teacher",
+    "uid": "1464340838",
+    "questionId": "127",
+    "classId": "448",
+    "roomId": "666",
+    "question": {
+        "id": "127",
+        "grade": "10",
+        "course": "3",
+        "author": "1463539862",
+        "create_time": "1464168317",
+        "update_time": "1464168317",
+        "type": "6",
+        "year": "2016",
+        "province": "11",
+        "sub_from": "1",
+        "degree": "30",
+        "stem": "",
+        "status": "1",
+        "answer": [
+            "C",
+            "D"
+        ],
+        "question": [
+            {
+                "id": "195",
+                "sid": "127",
+                "question": "",
+                "option_list": {
+                    "A": "bhsbhdb",
+                    "B": "ncjdbsajbd",
+                    "C": "bjdbsjhsbchsbh bdjhsbchjd bdjbsc bcjshdbc bcjsbdad bcjbsaj bjhcd",
+                    "D": "bdbshbc bcjdhsbhja bcjdsabah bcjhasbdhj bchjd"
+                },
+                "answer": [
+                    "C"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "2",
+                "virtual_id": "3"
+            }
+        ]
+    },
+    "questionType": "6"
+}
+{
+    "type": "question",
+    "userType": "teacher",
+    "uid": "1464861651",
+    "questionId": "1845",
+    "classId": "16",
+    "roomId": "153",
+    "question": {
+        "id": "1845",
+        "grade": "10",
+        "course": "3",
+        "author": "1464862049",
+        "create_time": "1468551714",
+        "update_time": "1468551714",
+        "type": "5",
+        "year": "2015",
+        "province": "35",
+        "sub_from": "2",
+        "degree": "1",
+        "stem": "If the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correctIf the heroes of the Galactic guard ____1____ the same ____2____ is to defend the galaxy. so this is a team of galactics, is that correct",
+        "status": "1",
+        "answer": [
+            "A",
+            "C"
+        ],
+        "question": [
+            {
+                "id": "2807",
+                "sid": "1845",
+                "question": "",
+                "option_list": {
+                    "A": "bhsbhdb",
+                    "B": "ncjdbsajbd",
+                    "C": "bjdbsjhsbchsbh bdjhsbchjd bdjbsc bcjshdbc bcjsbdad bcjbsaj bjhcd",
+                    "D": "bdbshbc bcjdhsbhja bcjdsabah bcjhasbdhj bchjd"
+                },
+                "answer": [
+                    "A"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "2",
+                "virtual_id": "4"
+            },
+            {
+                "id": "2808",
+                "sid": "1845",
+                "question": "",
+                "option_list": {
+                    "A": "bhsbhdb",
+                    "B": "ncjdbsajbd",
+                    "C": "bjdbsjhsbchsbh bdjhsbchjd bdjbsc bcjshdbc bcjsbdad bcjbsaj bjhcd",
+                    "D": "bdbshbc bcjdhsbhja bcjdsabah bcjhasbdhj bchjd"
+                },
+                "answer": [
+                    "C"
+                ],
+                "analysis": "",
+                "analytic": "",
+                "group_id": "2",
+                "virtual_id": "5"
+            }
+        ]
+    },
+    "questionType": "5"
+}
+{
+    "questionId": "1653",
+    "question": {
+        "create_time": "1469782774",
+        "question": [
+            {
+                "question": "<p>圆的面积公式是<img alt='' height='17' src='http: //live-avatar.ufile.ucloud.com.cn/607753eec10b0c326e1ec6450536d9aa' width='53' /></p>",
+                "answer": [
+                    "1"
+                ],
+                "group_id": "0",
+                "option_list": {
+                    "0": "错",
+                    "1": "对"
+                },
+                "id": "2101",
+                "analysis": "",
+                "analytic": "",
+                "sid": "1653"
+            }
+        ],
+        "year": "2016",
+        "author": "1463559571",
+        "degree": "50",
+        "type": "3",
+        "sub_from": "2",
+        "update_time": "1469782774",
+        "province": "14",
+        "answer": [
+            "1"
+        ],
+        "grade": "10",
+        "course": "2",
+        "id": "1653",
+        "stem": "<p>圆的面积公式是<img alt='' height='17' src='http: //live-avatar.ufile.ucloud.com.cn/607753eec10b0c326e1ec6450536d9aa' width='53' /></p>",
+        "status": "1"
+    },
+    "questionType": "3"
+}
+
+
+
+
+
+
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "76",
+    "questionType": "1",
+    "roomId": "674",
+    "pushTime": 1468055608202,
+    "answer": {
+        "145": "C"
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "49",
+    "questionType": "4",
+    "roomId": "661",
+    "pushTime": 1467877370679,
+    "answer": {
+        "1": "not to go",
+        "2": "will travel"
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "45",
+    "questionType": "2",
+    "roomId": "647",
+    "pushTime": 1467796537203,
+    "answer": {
+        "67": [
+            "A",
+            "D",
+            "B"
+        ]
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "userType": "student",
+    "questionId": "127",
+    "questionType": "6",
+    "roomId": "666",
+    "pushTime": 1467968858460,
+    "answer": {
+        "195": "C",
+        "196": "D"
+    }
+}
+{
+    "type": "qAnswer",
+    "uid": "1",
+    "appType": "1",
+    "userType": "student",
+    "questionId": "1845",
+    "questionType": "5",
+    "roomId": "153",
+    "pushTime": 1468999090433,
+    "answer": {
+        "2807": "D",
+        "2808": "C"
+    }
+}

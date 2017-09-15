@@ -1,0 +1,58 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-size: 10px;
+}
+
+.clear {
+    clear: both;
+    overflow: hidden;
+    zoom: 1;
+    height: 0
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    font-size:0;
+}
+.clearfix{*zoom:1;}
+
+ol, ul {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    color: #ccc;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+a:focus {
+    text-decoration: none;
+    /*background-color: transparent;*/
+}
+
+input, button, textarea, select {
+    vertical-align: middle;
+}

@@ -1,0 +1,39 @@
+{
+    "questionId": "1653",
+    "question": {
+        "create_time": "1469782774",
+        "question": [
+            {
+                "question": "<p>圆的面积公式是</p>",
+                "answer": [
+                    "1"
+                ],
+                "group_id": "0",
+                "option_list": {
+                    "0": "错",
+                    "1": "对"
+                },
+                "id": "2101",
+                "analysis": "",
+                "analytic": "",
+                "sid": "1653"
+            }
+        ],
+        "year": "2016",
+        "author": "1463559571",
+        "degree": "50",
+        "type": "3",
+        "sub_from": "2",
+        "update_time": "1469782774",
+        "province": "14",
+        "answer": [
+            "1"
+        ],
+        "grade": "10",
+        "course": "2",
+        "id": "1653",
+        "stem": "<p>圆的面积公式是</p>",
+        "status": "1"
+    },
+    "questionType": "3"
+}
